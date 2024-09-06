@@ -23,4 +23,11 @@ for(int i = 0; i < 4; i++)
 SELECT * FROM Users;
 ```
 
+```Java
+void main()
+{
+    System.out.println("Hello World!");
+}
+```
+
 [Lien externe](https://github.com/CamilleSimon/BTS2-CIEL-IR-VoieS-rie-2024-2025/pull/1)
